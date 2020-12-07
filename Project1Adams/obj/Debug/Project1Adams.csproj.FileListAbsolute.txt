@@ -1,0 +1,7 @@
+E:\School\VS\Project1Adams\Project1Adams\bin\Debug\Project1Adams.exe.config
+E:\School\VS\Project1Adams\Project1Adams\bin\Debug\Project1Adams.exe
+E:\School\VS\Project1Adams\Project1Adams\bin\Debug\Project1Adams.pdb
+E:\School\VS\Project1Adams\Project1Adams\obj\Debug\Project1Adams.csprojAssemblyReference.cache
+E:\School\VS\Project1Adams\Project1Adams\obj\Debug\Project1Adams.csproj.CoreCompileInputs.cache
+E:\School\VS\Project1Adams\Project1Adams\obj\Debug\Project1Adams.exe
+E:\School\VS\Project1Adams\Project1Adams\obj\Debug\Project1Adams.pdb
